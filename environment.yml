@@ -3,3 +3,6 @@ channels:
 dependencies:
   - octave_kernel
   - oct2py
+  - pandas
+  - numpy
+  - matplotlib
